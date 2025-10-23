@@ -10,7 +10,6 @@ Here are some fun facts about me:
 
 - My languages consist of Python, Java, JavaScript, SQL, and HTML/CSS
 - I am familiar with frameworks/libraries such as React, Flask, Pandas, Scikit-learn, and more!
-
 - Connect with me on LinkedIn! https://www.linkedin.com/in/kyle-c-716b0023a/
 <!--
 **kczerniawski/kczerniawski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
