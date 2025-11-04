@@ -3,7 +3,7 @@
 I am a developer who likes to turn crazy ideas into reality. I am truly passionate about leveraging technology to make people's lives more simple.
 
 Here are some fun facts about me:
-- 🌎 I am based in Sayreville, NJ
+- 🌎 I am based in Central NJ
 - 🎓 I graduated from Rutgers University - New Brunswick with a B.A. in Computer Science
 - 🎨 I am currently working on multiple projects, with my main one being a North American Interactive Pro Sports Map using React and Flask.
 - 🧠 I am currently expanding my knowledge on web development and researching how certain machine learning algorithms could simplify one's day-to-day life!
