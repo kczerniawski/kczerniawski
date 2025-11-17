@@ -1,12 +1,12 @@
 ## Hi there 👋 I'm Kyle! My pronouns are he/him.
 
-I am a developer who likes to turn crazy ideas into reality. I am truly passionate about leveraging technology to make people's lives more simple.
+I am a hard worker who likes to turn crazy ideas into reality. I am truly passionate about leveraging technology to make people's lives more simple.
 
 Here are some fun facts about me:
 - 🌎 I am based in Central NJ
 - 🎓 I graduated from Rutgers University - New Brunswick with a B.A. in Computer Science
-- 🎨 I am currently working on multiple projects, with my main one being a North American Interactive Pro Sports Map using React and Flask.
-- 🧠 I am currently expanding my knowledge on web development and researching how certain machine learning algorithms could simplify one's day-to-day life!
+- 🎨 I enjoy creating sports-related projects in my free time, which helped me gain my foundation on programming
+- 🧠 I am currently further expanding my SQL knowledge, and also researching how exactly machine learning algorithms can simplify one's day-to-day life
 
 - Connect with me on LinkedIn! https://www.linkedin.com/in/kyle-c-716b0023a/
 <!--
