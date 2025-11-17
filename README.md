@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Kyle! My pronouns are he/him.
 
-I am a hard worker who likes to turn crazy ideas into reality. I am truly passionate about leveraging technology to make people's lives more simple.
+I am a hard worker who likes to turn crazy ideas into reality. I have a particular interest in working with data, as it has quickly became a vital resource in today's world.
 
 Here are some fun facts about me:
 - 🌎 I am based in Central NJ
