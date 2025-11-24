@@ -1,11 +1,11 @@
 ## Hi there 👋 I'm Kyle! My pronouns are he/him.
 
-I am a hard worker who likes to turn crazy ideas into reality. I have a particular interest in working with data, as it has quickly became a vital resource in today's world.
+I have a particular interest in working with data, as it has quickly became a vital resource in today's world.
 
 Here are some fun facts about me:
 - 🌎 I am based in Central NJ
 - 🎓 I graduated from Rutgers University - New Brunswick with a B.A. in Computer Science
-- 🎨 I enjoy creating sports-related projects in my free time, which helped me gain my foundation on programming
+- 🎨 I enjoy creating hobby-related projects in my free time, which helped me gain my foundation on programming
 - 🧠 I am currently further expanding my SQL knowledge, and also researching how exactly machine learning algorithms can simplify one's day-to-day life
 
 - Connect with me on LinkedIn! https://www.linkedin.com/in/kyle-c-716b0023a/
